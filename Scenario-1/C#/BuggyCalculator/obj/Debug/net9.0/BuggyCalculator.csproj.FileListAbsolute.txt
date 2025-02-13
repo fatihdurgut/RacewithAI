@@ -1,0 +1,14 @@
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\bin\Debug\net9.0\BuggyCalculator.exe
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\bin\Debug\net9.0\BuggyCalculator.deps.json
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\bin\Debug\net9.0\BuggyCalculator.runtimeconfig.json
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\bin\Debug\net9.0\BuggyCalculator.dll
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\bin\Debug\net9.0\BuggyCalculator.pdb
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.AssemblyInfoInputs.cache
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.AssemblyInfo.cs
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.csproj.CoreCompileInputs.cache
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.dll
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\refint\BuggyCalculator.dll
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.pdb
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\BuggyCalculator.genruntimeconfig.cache
+d:\source\repos\WebSummit\RacewithAI\Scenario-1\C#\BuggyCalculator\obj\Debug\net9.0\ref\BuggyCalculator.dll
